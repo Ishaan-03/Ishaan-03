@@ -13,7 +13,7 @@ Acme: A Next.js-based financial dashboard for businesses with extended payment c
 
 🚀 Learning and Goals
 
-Currently diving into cloud computing and looking to expand my deployment skills on AWS and other platforms. In 2025, I aim to secure a position where I can earn 12 lakhs after tax and continue refining my development and problem-solving skills.
+Currently diving into cloud computing and looking to expand my deployment skills on AWS and other platforms. In 2025, I aim to continue refining my development and problem-solving skills.
 
 🌟 Personal Highlights
 
